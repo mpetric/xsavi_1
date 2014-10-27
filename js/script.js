@@ -16,3 +16,6 @@ $("#shakeit").click(function () {
     console.log(imagerotate);
     console.log(Math.abs(leftlength - rightlength));
 });
+
+//adding line for git update test
+
