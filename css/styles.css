@@ -1,0 +1,27 @@
+body {
+    background-color:#497641;
+}
+h2 {
+    font-family:Helvetica;
+    sans-serif;
+    color:white
+}
+#leftleg {
+    float:left;
+    width:40px;
+    height:75px;
+    background-color:#666666;
+    margin-left:85px
+}
+#rightleg {
+    float:left;
+    width:40px;
+    height:75px;
+    background-color:#666666;
+    margin-left:12px
+}
+.robot {
+    background-color:#282828;
+    height:375px;width:275px;
+    margin-left:50px;padding:25px 25px 25px 25px;
+}
